@@ -1,0 +1,47 @@
+.container {
+    
+    min-width: 320px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+.discount-section {
+    padding-top: 80px;
+        padding-bottom: 80px;
+}
+.discount-wrap{
+display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 10px;
+}
+.discount-text {
+font-weight: 600;
+    font-size: 48px;
+    line-height: 1.04;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+    color: #fbfbfb;
+    
+}
+.span-text {
+    border-radius: 12px;
+        background-color: #576f35;
+        display: inline-block;
+        
+        
+}
+.dis-p{
+    padding-top: 3px;
+        padding-left: 10px;
+        
+}
+.span-second-text{
+    color: #141414;
+   display: inline-block;
+   padding-left: 10px;
+    
+}
+
